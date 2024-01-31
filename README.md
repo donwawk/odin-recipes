@@ -6,3 +6,5 @@ In this project I will create a basic recipe website using all the skills shown 
 -CSS
 -Git
 -Terminal skills!
+
+Pushing it to GIT right now !
